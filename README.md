@@ -1,4 +1,3 @@
-# Kiran  
 ## Task-2  
 R-type instruction
 <pre>
